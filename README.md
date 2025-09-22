@@ -174,10 +174,5 @@ https://restful-booker.herokuapp.com
 - Use GET operations for read-only testing
 - Manual verification required for update operations
 - Alternative authentication methods may be needed
----
 
 **Happy Testing! 🎉**
-
-
-For questions or support, please create an issue or contact the testing team.
-
