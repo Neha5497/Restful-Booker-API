@@ -2,21 +2,6 @@
 
 A comprehensive testing suite for the Restful Booker API, including functional, security, and integration testing with automated test execution capabilities.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Project Structure](#project-structure)
-- [Prerequisites](#prerequisites)
-- [Installation & Setup](#installation--setup)
-- [Test Execution](#test-execution)
-- [Test Documentation](#test-documentation)
-- [Bug Reports & Tracking](#bug-reports--tracking)
-- [Contributing](#contributing)
-- [API Endpoints](#api-endpoints)
-- [Test Coverage](#test-coverage)
-- [Known Issues](#known-issues)
-- [Contact](#contact)
-
 ## 🎯 Overview
 
 This project contains a complete testing framework for the **Restful Booker API** - a RESTful web service for managing hotel bookings. The testing suite covers:
@@ -31,7 +16,7 @@ This project contains a complete testing framework for the **Restful Booker API*
 
 - **25 Comprehensive Test Cases** covering all API endpoints
 - **Automated Test Execution** using Postman
-- **Detailed Bug Reporting** with CSV tracking
+- **Detailed Bug Reporting**
 - **Requirements Traceability Matrix (RTM)**
 - **CI/CD Integration Ready**
 
@@ -195,3 +180,4 @@ https://restful-booker.herokuapp.com
 
 
 For questions or support, please create an issue or contact the testing team.
+
